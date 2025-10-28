@@ -237,7 +237,7 @@ export const products: Product[] = [
     id: 22, 
     name: "Premium Card Game Sleeves (100 Pack)", 
     price: 12.99, 
-    image: "https://images.unsplash.com/photo-1565034946487-077786996e27?w=600&h=600&fit=crop", 
+    image: "https://images.unsplash.com/photo-1611371805429-8b5c1b2c34ba?w=600&h=600&fit=crop", 
     category: "Card Sleeves",
     description: "Protect your valuable cards with these high-quality, crystal-clear sleeves.",
     rating: 4.6,
